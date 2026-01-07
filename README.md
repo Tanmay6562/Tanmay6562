@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Tanmay
+# Tanmay Mali
 
 ### Embedded Systems Engineer | Automotive Electronics | Firmware Developer
 
