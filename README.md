@@ -25,8 +25,10 @@ I enjoy building systems that work close to hardware — from microcontroller fi
 - 📡 **SOLARGREEN AUTOMOVER SMART IoT Lawncare**  
   Lawn grass cutting and Live camera streaming with ESP32 cam & relay control
 
+- **Image steganography using LSB**  
+
 - 🚗 **Automated Projector Room Setup**  
-  Arduno uno, IR sensor, automatic lights and curtains turns OFF.
+  Automatic lights and curtains turns OFF using Arduno uno and IR sensor.
 
 - ⏱️ **RTOS-based Embedded Applications**  
   Task scheduling, inter-task communication, timers
@@ -68,7 +70,7 @@ I enjoy building systems that work close to hardware — from microcontroller fi
 ## 📫 Connect With Me
 
 - 📧 Email: tanmaymali201@gmail.com 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/tanmay-mali](https://www.linkedin.com/in/tanmay-mali-771278202/) 
+- 🔗 LinkedIn: https://www.linkedin.com/in/tanmay-mali-771278202/
 - 🧠 GitHub: https://github.com/Tanmay6562  
 
 ---
