@@ -49,35 +49,19 @@ I enjoy building systems that work close to hardware — from microcontroller fi
 ## 🛠️ Skills & Tools
 
 **Programming**
-- Embedded C, C++, Basic Assembly
-- Data Structures & Algorithms
+- Embedded C, C++, Basic Assembly, Data Structures & Algorithms
 
 **Microcontrollers & Platforms**
-- PIC16F877A
-- STM32 (ARM Cortex-M)
-- ESP32
-- ATmega328P
+- PIC16F877A, STM32 (ARM Cortex-M), ESP32, ATmega328P
 
 **Embedded Concepts**
-- RTOS / FreeRTOS
-- Interrupts & Timers
-- Device Drivers
-- EEPROM & Flash Memory
-- Low-power design
+- RTOS / FreeRTOS, Interrupts & Timers, Device Drivers, EEPROM & Flash Memory, Low-power design
 
 **Communication Protocols**
-- UART
-- I2C
-- SPI
-- CAN
-- MQTT (Basics)
+- UART, I2C, SPI, CAN, MQTT (Basics)
 
 **Tools & IDEs**
-- MPLAB X IDE
-- Keil uVision
-- Arduino Framework
-- Proteus Simulation
-- Git & GitHub
+- MPLAB X IDE, Keil uVision, Arduino Framework, Proteus Simulation, Git & GitHub
 
 ---
 
