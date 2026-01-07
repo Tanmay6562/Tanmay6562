@@ -83,9 +83,9 @@ I enjoy building systems that work close to hardware — from microcontroller fi
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🧠 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: tanmaymali201@gmail.com 
+- 🔗 LinkedIn: https://www.linkedin.com/in/tanmay-mali 
+- 🧠 GitHub: https://github.com/Tanmay6562  
 
 ---
 
